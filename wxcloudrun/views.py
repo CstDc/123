@@ -27,5 +27,5 @@ def on_submit():
 submit_button = tk.Button(window, text="提交", command=on_submit)
 submit_button.pack()
 
-# 运行主循环
+
 window.mainloop()
